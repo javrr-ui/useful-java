@@ -1,5 +1,5 @@
 # useful-java
-useful java resources
+Recursos utiles
 
 Lesson: Performing Custom Painting
 https://docs.oracle.com/javase/tutorial/uiswing/painting/index.html
